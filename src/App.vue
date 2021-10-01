@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <Header/>
+    <Header title="Rick and Morty App"/>
     <Characters/>
   </div>
 </template>
